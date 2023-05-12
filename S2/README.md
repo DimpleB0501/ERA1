@@ -1,0 +1,3 @@
+- **ERA V1 S2.ipynb** contains S2 - Assignment notebook
+- **receptive_field_cal.py** calculates the receptive field of the model. (Note: Code needs improvement) 
+- **S2 - Quiz_ ERA V1.pdf** contains the quiz for future reference. 
