@@ -13,8 +13,8 @@ Design a network CIFAR 10 dataset
 ### Model
 My model has 6 convolution layers (with 3x3 kernels), 2 dilated convolution layers, 1 depthwise separable convolution layer, a convolution layer implemented as max pool layer (kernel_size=(2, 2), stride = 2, padding=2, dilation = 4), a gap layer followed by a convolution layer. 
 ##### Files
-- [model.py](https://github.com/DimpleB0501/eva8/blob/main/Session_6_Assignment_QnA/model.py) file includes my network.
-- [Session_6_Assignment_QnA.ipynb](https://github.com/DimpleB0501/eva8/blob/main/Session_6_Assignment_QnA/Session_6_Assignment_QnA.ipynb) is a single notebook file where model.py file needs to be uploaded.
+- [model.py](https://github.com/DimpleB0501/eva8/blob/main/S9/model.py) file includes my network.
+- [Session_6_Assignment_QnA.ipynb](https://github.com/DimpleB0501/eva8/blob/main/S9/Session_9_Assignment_QnA.ipynb) is a single notebook file where model.py file needs to be uploaded.
 
 ##### Model parameters
 Achieved specifications
